@@ -1,4 +1,4 @@
-# Spcokets
+# Websockets Chat
 A small chat server using Node and Socket.io. 
 Just because I wanted to have a look at this stuff.
 
